@@ -56,4 +56,4 @@ The front-end design of the widget is not important.
 This test should take between 1 and 2 hours, although this is purely a guide.
 
 ## Submission Instructions
-Please submit a zipped file containing your plugin to: [Chris Williams](christopher.williams@progressivecontent.com)
+Please submit a zipped file containing your widget to: [Chris Williams](christopher.williams@progressivecontent.com)
