@@ -29,7 +29,7 @@ To install the project, you will need to:
 ### Starting the test environment
 Run the following from your command line:
 
-```docker-compose up```
+```docker-compose up -d```
 
 This will build and start the docker containers required, and will expose WordPress on port 8000. You can access it on [http://localhost:8000](http://localhost:8000)
 
