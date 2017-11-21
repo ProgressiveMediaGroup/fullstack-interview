@@ -1,0 +1,6 @@
+# docker volumes
+/db_data
+/wordpress
+
+# misc
+.DS_Store
