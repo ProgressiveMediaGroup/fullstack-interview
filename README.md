@@ -49,9 +49,9 @@ This will not delete any of the files within the 'db_data' and 'wordpress' sub-f
 ## Task Instructions
 We need you to write a widget for a WordPress site that will contain links to the site owner’s Facebook, Twitter and LinkedIn profiles.
 
-The site owner must be allowed to specify their usernames for those sites when adding the widget in the WordPress back-end.
+The site owner must be allowed to specify the links for those sites when adding the widget in the WordPress back-end.
 
-The front-end design of the widget is not important.
+The front-end design should fit with the standard WordPress Twenty Seventeen theme and include icons for each of the links
 
 This test should take between 1 and 2 hours, although this is purely a guide.
 
