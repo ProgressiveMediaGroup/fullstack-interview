@@ -57,3 +57,12 @@ This test should take between 1 and 2 hours, although this is purely a guide.
 
 ## Submission Instructions
 Please submit a zipped file containing your widget to: [Chris Williams](christopher.williams@progressivecontent.com)
+
+## Troubleshooting
+
+### Docker-Compose version issue
+
+If you receive the following issue, you will need to upgrade your version of Docker to the latest version:
+
+```Version in "./docker-compose.yml" is unsupported. You might be seeing this error because you're using the wrong Compose file version. Either specify a version of "2" (or "2.0") and place your service definitions under the `services` key, or omit the `version` key and place your service definitions at the root of the file to use version 1.
+For more on the Compose file format versions, see https://docs.docker.com/compose/compose-file/```
